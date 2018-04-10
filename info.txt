@@ -1,6 +1,8 @@
 PWA - Progressive web apps
 https://whatwebcando.today
 
+lighthouse exntensão no chrome para validar o pwa
+
 //publicando no git o pwa
 git init
 git status
@@ -8,3 +10,4 @@ git add .
 git status (arquivos que adicionei para empacotar / commit)
 git commit -m "first commit"
 git status
+#copiar as duas linhas do push no git
