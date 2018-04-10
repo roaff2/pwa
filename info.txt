@@ -1,0 +1,10 @@
+PWA - Progressive web apps
+https://whatwebcando.today
+
+//publicando no git o pwa
+git init
+git status
+git add .
+git status (arquivos que adicionei para empacotar / commit)
+git commit -m "first commit"
+git status
